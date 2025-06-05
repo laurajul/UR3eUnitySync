@@ -16,7 +16,7 @@ This script allows a UR3e (or other UR series) robot to be controlled in real-ti
 
 ## Use Case
 
-This script was used in a setup where the Unity game engine simulated robot movements. Unity sent target joint values over MQTT, and the robot followed in real time. The robot also streamed back its actual joint positions to Unity, allowing for precise synchronization.
+This script was used in a setup where the Unity game engine mirrors robot movements. Unity can sent target joint values over MQTT, and the robot followed in real time. This will also be ubdated in the simulation inside unity.
 
 ---
 
