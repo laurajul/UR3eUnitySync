@@ -2,6 +2,8 @@
 
 This script allows a UR3e (or other UR series) robot to be controlled in real-time using MQTT messages sent from external software like **Unity**. The robot receives joint commands and sends back its current joint positions continuously, enabling two-way synchronization between a simulation/game engine and the physical robot.
 
+![Setup](img/setup.png)
+
 ---
 
 ## Features
